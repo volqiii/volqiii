@@ -1,10 +1,10 @@
 <svg width="960" height="480" viewBox="0 0 960 480" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect width="960" height="480" rx="24" fill="#071D1C"/>
-  <rect x="42" y="48" width="124" height="124" rx="32" fill="#0E423A" stroke="#208B78" stroke-width="3"/>
-  <path d="M73 78H135C141.627 78 147 83.373 147 90V131C147 137.627 141.627 143 135 143H73C66.373 143 61 137.627 61 131V90C61 83.373 66.373 78 73 78Z" fill="#00D29D"/>
-  <path d="M73 99H135" stroke="#06281E" stroke-width="8" stroke-linecap="round"/>
-  <circle cx="129" cy="122" r="10" fill="#C8FF3D"/>
-  <path d="M95 122H110" stroke="#06281E" stroke-width="8" stroke-linecap="round"/>
+  <rect x="42" y="48" width="124" height="124" rx="32" fill="#0A352D" stroke="#00D29D" stroke-width="4"/>
+  <path d="M92 83C94 70 100 63 105 63C111 63 114 73 115 84L117 94L132 97C142 98 148 103 148 109C148 115 139 118 130 119L116 121L113 136C111 146 106 152 100 152C94 152 92 143 91 134L89 120L74 117C64 116 58 112 58 106C58 100 66 98 75 97L89 95L92 83Z" fill="#00D29D"/>
+  <path d="M81 106L102 103L108 83L112 104L136 109L112 113L106 135L102 114L81 110V106Z" fill="#073128"/>
+  <circle cx="80" cy="137" r="10" fill="#00D29D"/>
+  <circle cx="118" cy="137" r="10" fill="#00D29D"/>
   <text x="42" y="226" fill="#C8FF3D" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="4">TELEGRAM MINI APP</text>
   <text x="42" y="306" fill="#F3FFFB" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="800">SBERWISE</text>
   <text x="42" y="355" fill="#A2CEC5" font-family="Arial, Helvetica, sans-serif" font-size="24">Совместный бюджет без путаницы</text>
