@@ -29,7 +29,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/volqiii/sberwise">
-        <img src="https://raw.githubusercontent.com/volqiii/volqiii/main/assets/sberwise-project-reference.svg" alt="SberWise" width="100%">
+        <img src="https://raw.githubusercontent.com/volqiii/volqiii/main/assets/sberwise-project-mark.svg" alt="SberWise" width="100%">
       </a>
       <br><br>
       <strong>SberWise</strong> — Telegram-бот и Mini App для совместного бюджета, чеков, долгов и аналитики.
