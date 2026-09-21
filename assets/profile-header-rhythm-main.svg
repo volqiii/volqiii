@@ -1,0 +1,16 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="320" fill="#0B1020"/>
+  <path d="M0 46H1280M0 106H1280M0 166H1280M0 226H1280M0 286H1280" stroke="#1D2A48" stroke-width="1"/>
+  <path d="M78 0V320M198 0V320M318 0V320M438 0V320M558 0V320M678 0V320M798 0V320M918 0V320M1038 0V320M1158 0V320" stroke="#1D2A48" stroke-width="1"/>
+  <circle cx="1054" cy="98" r="110" fill="#7C5CFF" fill-opacity=".18"/>
+  <circle cx="1120" cy="224" r="72" fill="#26D7C7" fill-opacity=".2"/>
+  <path d="M827 252C917 214 978 148 1056 89C1113 46 1173 57 1260 34" stroke="#26D7C7" stroke-width="3"/>
+  <circle cx="827" cy="252" r="7" fill="#C8FF3D"/>
+  <circle cx="1056" cy="89" r="7" fill="#C8FF3D"/>
+  <circle cx="1260" cy="34" r="7" fill="#C8FF3D"/>
+  <text x="78" y="82" fill="#C8FF3D" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="4">VOLQIII / PERSONAL PROJECT</text>
+  <text x="78" y="165" fill="#F5F7FF" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="800" letter-spacing="2">RHYTHM</text>
+  <text x="78" y="226" fill="#AAB6D3" font-family="Arial, Helvetica, sans-serif" font-size="27">Небольшой проект о регулярности и движении вперёд.</text>
+  <rect x="78" y="260" width="12" height="12" rx="2" fill="#C8FF3D"/>
+  <text x="102" y="272" fill="#D7DEF1" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="1.5">MY PROJECT · 2026</text>
+</svg>
