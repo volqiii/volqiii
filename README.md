@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/volqiii/volqiii/main/assets/profile-header-rhythm-main.svg" alt="Rhythm — personal project by volqiii" width="100%">
+  <img src="https://raw.githubusercontent.com/volqiii/volqiii/main/assets/profile-header-final.svg" alt="volqiii — делаю, учусь" width="100%">
 </p>
 
 <p align="center">
