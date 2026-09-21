@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/volqiii/volqiii/main/assets/profile-header.svg" alt="volqiii — делаю, учусь" width="100%">
+  <img src="https://raw.githubusercontent.com/volqiii/volqiii/main/assets/profile-header.svg?v=977a2c55d6c391446b58cf2ca13123b56b2cafc1" alt="volqiii — делаю, учусь" width="100%">
 </p>
 
 <p align="center">
