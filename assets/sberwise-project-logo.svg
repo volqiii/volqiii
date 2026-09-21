@@ -1,0 +1,23 @@
+<svg width="960" height="480" viewBox="0 0 960 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="480" rx="24" fill="#071D1C"/>
+  <rect x="42" y="48" width="124" height="124" rx="32" fill="#0A352D" stroke="#00D29D" stroke-width="4"/>
+  <path d="M92 83C94 70 100 63 105 63C111 63 114 73 115 84L117 94L132 97C142 98 148 103 148 109C148 115 139 118 130 119L116 121L113 136C111 146 106 152 100 152C94 152 92 143 91 134L89 120L74 117C64 116 58 112 58 106C58 100 66 98 75 97L89 95L92 83Z" fill="#00D29D"/>
+  <path d="M81 106L102 103L108 83L112 104L136 109L112 113L106 135L102 114L81 110V106Z" fill="#073128"/>
+  <circle cx="80" cy="137" r="10" fill="#00D29D"/>
+  <circle cx="118" cy="137" r="10" fill="#00D29D"/>
+  <text x="42" y="226" fill="#C8FF3D" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="4">TELEGRAM MINI APP</text>
+  <text x="42" y="306" fill="#F3FFFB" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="800">SBERWISE</text>
+  <text x="42" y="355" fill="#A2CEC5" font-family="Arial, Helvetica, sans-serif" font-size="24">Совместный бюджет без путаницы</text>
+  <rect x="42" y="394" width="252" height="38" rx="19" fill="#103936"/>
+  <text x="67" y="419" fill="#D5FFF4" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">BUDGET · DEBTS · INSIGHTS</text>
+  <rect x="610" y="55" width="290" height="370" rx="26" fill="#0C2A28"/>
+  <text x="642" y="101" fill="#9DD6C9" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="2">GROUP BUDGET</text>
+  <circle cx="681" cy="178" r="36" fill="#00D29D" fill-opacity=".18" stroke="#00D29D" stroke-width="3"/>
+  <circle cx="801" cy="178" r="36" fill="#46D8FF" fill-opacity=".18" stroke="#46D8FF" stroke-width="3"/>
+  <path d="M718 178H764" stroke="#C8FF3D" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="741" cy="178" r="8" fill="#C8FF3D"/>
+  <rect x="642" y="265" width="50" height="104" rx="12" fill="#00D29D"/>
+  <rect x="708" y="225" width="50" height="144" rx="12" fill="#46D8FF"/>
+  <rect x="774" y="184" width="50" height="185" rx="12" fill="#C8FF3D"/>
+  <text x="642" y="400" fill="#A2CEC5" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Расходы под контролем</text>
+</svg>
