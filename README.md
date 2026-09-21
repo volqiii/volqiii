@@ -1,26 +1,35 @@
-# Привет, я volqiii 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/volqiii/volqiii/main/assets/profile-header.svg" alt="volqiii — делаю, учусь" width="100%">
+</p>
 
-> Собираю учебные проекты, пробую идеи и держу рабочий ритм.
+<p align="center">
+  <a href="https://github.com/volqiii/rhythm">Проект Rhythm</a>
+  ·
+  <a href="https://volqi.gitverse.site/rhythm">Открыть трекер</a>
+</p>
 
-### Сейчас
+## Привет
 
-| Фокус | Что происходит |
+Я собираю учебные проекты так, чтобы ими можно было пользоваться: от первой идеи до работающей публикации. Сейчас держу регулярный ритм разработки и постепенно собираю своё портфолио.
+
+## В работе
+
+### Rhythm — личный трекер регулярности
+
+Небольшой проект о привычке доводить дела до результата. Он считает дни работы, показывает календарь прогресса и автоматически фиксирует учебные отметки.
+
+| | |
 | :-- | :-- |
-| 🟢 Учебный ритм | Отмечаю регулярную работу над проектами |
-| 🌐 Веб | Собираю аккуратные интерфейсы и небольшие сервисы |
-| ✦ Портфолио | Постепенно превращаю учебные задачи в понятные проекты |
+| **Где посмотреть** | [Сайт на GitVerse](https://volqi.gitverse.site/rhythm) |
+| **Как устроено** | [Исходный код на GitHub](https://github.com/volqiii/rhythm) |
+| **Ритм** | Пн–Пт в 00:05, плюс воскресенье раз в две недели |
 
-### Проекты
+## Принцип
 
-<a href="https://github.com/volqiii/rhythm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=volqiii&repo=rhythm&theme=transparent&hide_border=true" />
-</a>
+`Маленький шаг каждый день сильнее редкого большого рывка.`
 
 <br />
 
-[Открыть трекер ритма →](https://volqi.gitverse.site/rhythm)  
-[Посмотреть исходный код →](https://github.com/volqiii/rhythm)
-
----
-
-<sub>Здесь будет появляться то, над чем я работаю дальше.</sub>
+<p align="center">
+  <sub>Екатеринбург · 2026</sub>
+</p>
