@@ -10,8 +10,6 @@
   <a href="https://github.com/volqiii/rhythm">Rhythm</a>
   ·
   <a href="https://github.com/volqiii/sberwise">SberWise</a>
-  ·
-  <a href="https://volqi.gitverse.site/rhythm">Трекер</a>
 </p>
 
 ## Проекты
