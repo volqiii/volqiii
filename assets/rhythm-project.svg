@@ -1,0 +1,16 @@
+<svg width="960" height="480" viewBox="0 0 960 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="480" rx="24" fill="#0B1020"/>
+  <path d="M0 80H960M0 160H960M0 240H960M0 320H960M0 400H960" stroke="#203154"/>
+  <path d="M80 0V480M200 0V480M320 0V480M440 0V480M560 0V480M680 0V480M800 0V480" stroke="#203154"/>
+  <circle cx="748" cy="144" r="118" fill="#7C5CFF" fill-opacity=".2"/>
+  <circle cx="808" cy="344" r="88" fill="#26D7C7" fill-opacity=".18"/>
+  <path d="M522 366C620 330 650 230 722 172C785 120 849 122 930 62" stroke="#26D7C7" stroke-width="5"/>
+  <circle cx="522" cy="366" r="10" fill="#C8FF3D"/>
+  <circle cx="722" cy="172" r="10" fill="#C8FF3D"/>
+  <circle cx="930" cy="62" r="10" fill="#C8FF3D"/>
+  <text x="70" y="100" fill="#C8FF3D" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="4">PERSONAL PROJECT</text>
+  <text x="70" y="210" fill="#F5F7FF" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="800">RHYTHM</text>
+  <text x="70" y="275" fill="#AAB6D3" font-family="Arial, Helvetica, sans-serif" font-size="25">Трекер регулярности и учебного ритма</text>
+  <rect x="70" y="336" width="168" height="44" rx="22" fill="#162342" stroke="#355083"/>
+  <text x="98" y="365" fill="#D8E2FB" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">GITVERSE · 2026</text>
+</svg>
