@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/volqiii/volqiii/main/assets/profile-header-final.svg" alt="volqiii — делаю, учусь" width="100%">
+  <img src="https://raw.githubusercontent.com/volqiii/volqiii/main/assets/profile-header-projects.svg" alt="volqiii — делаю, учусь" width="100%">
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/volqiii/rhythm">
-        <img src="https://raw.githubusercontent.com/volqiii/volqiii/main/assets/rhythm-project.svg" alt="Rhythm" width="100%">
+        <img src="https://raw.githubusercontent.com/volqiii/volqiii/main/assets/rhythm-project-v2.svg" alt="Rhythm" width="100%">
       </a>
       <br><br>
       <strong>Rhythm</strong> — личный трекер регулярности с календарём прогресса и автоматическими отметками.
@@ -29,7 +29,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/volqiii/sberwise">
-        <img src="https://raw.githubusercontent.com/volqiii/volqiii/main/assets/sberwise-project.svg" alt="SberWise" width="100%">
+        <img src="https://raw.githubusercontent.com/volqiii/volqiii/main/assets/sberwise-project-v2.svg" alt="SberWise" width="100%">
       </a>
       <br><br>
       <strong>SberWise</strong> — Telegram-бот и Mini App для совместного бюджета, чеков, долгов и аналитики.
