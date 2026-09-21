@@ -3,37 +3,48 @@
 </p>
 
 <p align="center">
+  Собираю работающие учебные проекты: от идеи и интерфейса до публикации.
+</p>
+
+<p align="center">
   <a href="https://github.com/volqiii/rhythm">Rhythm</a>
   ·
   <a href="https://github.com/volqiii/sberwise">SberWise</a>
+  ·
+  <a href="https://volqi.gitverse.site/rhythm">Трекер</a>
 </p>
-
-## Привет
-
-Я собираю учебные проекты так, чтобы ими можно было пользоваться: от первой идеи до работающей публикации. Сейчас держу регулярный ритм разработки и постепенно собираю своё портфолио.
 
 ## Проекты
 
-### Rhythm — личный трекер регулярности
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/volqiii/rhythm">
+        <img src="https://raw.githubusercontent.com/volqiii/volqiii/main/assets/rhythm-project.svg" alt="Rhythm" width="100%">
+      </a>
+      <br><br>
+      <strong>Rhythm</strong> — личный трекер регулярности с календарём прогресса и автоматическими отметками.
+      <br><br>
+      <a href="https://volqi.gitverse.site/rhythm">Открыть трекер →</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/volqiii/sberwise">
+        <img src="https://raw.githubusercontent.com/volqiii/volqiii/main/assets/sberwise-project.svg" alt="SberWise" width="100%">
+      </a>
+      <br><br>
+      <strong>SberWise</strong> — Telegram-бот и Mini App для совместного бюджета, чеков, долгов и аналитики.
+      <br><br>
+      <a href="https://github.com/volqiii/sberwise">Открыть проект →</a>
+    </td>
+  </tr>
+</table>
 
-Небольшой проект о привычке доводить дела до результата. Он считает дни работы, показывает календарь прогресса и автоматически фиксирует учебные отметки.
+## Сейчас
 
-| | |
-| :-- | :-- |
-| **Где посмотреть** | [Сайт на GitVerse](https://volqi.gitverse.site/rhythm) |
-| **Как устроено** | [Исходный код на GitHub](https://github.com/volqiii/rhythm) |
-| **Ритм** | Пн–Пт в 00:05, плюс воскресенье раз в две недели |
+- Делаю аккуратные веб-интерфейсы и Telegram-приложения.
+- Превращаю учебные задачи в понятные, опубликованные проекты.
+- Развиваю портфолио через регулярную практику.
 
-### SberWise — совместный бюджет
-
-Telegram-бот и Mini App для общих расходов: комнаты, чеки, долги, аналитика и напоминания в одном месте.
-
-| | |
-| :-- | :-- |
-| **Проект** | [Открыть SberWise на GitHub](https://github.com/volqiii/sberwise) |
-| **Стек** | Python · aiogram · aiohttp · SQLite · JavaScript |
-| **Идея** | Делить расходы понятнее и держать общий бюджет под контролем |
-
-## Принцип
-
-`Маленький шаг каждый день сильнее редкого большого рывка.`
+<p align="center">
+  <sub>Делаю. Учусь. Двигаюсь дальше.</sub>
+</p>
