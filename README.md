@@ -21,9 +21,9 @@
         <img src="https://raw.githubusercontent.com/volqiii/volqiii/main/assets/rhythm-project-v2.svg" alt="Rhythm" width="100%">
       </a>
       <br><br>
-      <strong>Rhythm</strong> — личный трекер регулярности с календарём прогресса и автоматическими отметками.
+      <strong>Rhythm</strong> — открытый шаблон для планирования активности на GitHub и GitVerse: уровень от 0 до 15 для каждой даты.
       <br><br>
-      <a href="https://volqi.gitverse.site/rhythm">Открыть трекер →</a>
+      <a href="https://volqi.gitverse.site/rhythm">Открыть Rhythm →</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/volqiii/sberwise">
@@ -41,7 +41,7 @@
 
 - Делаю аккуратные веб-интерфейсы и Telegram-приложения.
 - Превращаю учебные задачи в понятные, опубликованные проекты.
-- Развиваю портфолио через регулярную практику.
+- Развиваю Rhythm как шаблон управляемой активности для GitHub и GitVerse.
 
 <p align="center">
   <sub>Делаю. Учусь. Двигаюсь дальше.</sub>
