@@ -10,6 +10,8 @@
   <a href="https://github.com/volqiii/rhythm">Rhythm</a>
   ·
   <a href="https://github.com/volqiii/sberwise">SberWise</a>
+  ·
+  <a href="https://github.com/volqiii/gitverse-connector">GitVerse Connector</a>
 </p>
 
 ## Проекты
@@ -33,6 +35,20 @@
       <strong>SberWise</strong> — Telegram-бот и Mini App для совместного бюджета, чеков, долгов и аналитики.
       <br><br>
       <a href="https://github.com/volqiii/sberwise">Открыть проект →</a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://github.com/volqiii/gitverse-connector">
+        <img src="https://raw.githubusercontent.com/volqiii/gitverse-connector/main/assets/gitverse-connector-card.svg" alt="GitVerse Connector for Codex" width="100%">
+      </a>
+      <br><br>
+      <strong>GitVerse Connector for Codex</strong> — локальный плагин, который соединяет Codex с GitVerse: репозитории, файлы, коммиты, задачи, merge requests и CI/CD.
+      <br><br>
+      <a href="https://github.com/volqiii/gitverse-connector">Открыть репозиторий →</a>
     </td>
   </tr>
 </table>
