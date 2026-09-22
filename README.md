@@ -43,7 +43,7 @@
   <tr>
     <td colspan="2" valign="top">
       <a href="https://github.com/volqiii/gitverse-connector">
-        <img src="https://raw.githubusercontent.com/volqiii/gitverse-connector/main/assets/gitverse-connector-card.svg" alt="GitVerse Connector for Codex" width="100%">
+        <img src="https://raw.githubusercontent.com/volqiii/gitverse-connector/main/assets/gitverse-connector-card-github.jpg" alt="GitVerse Connector for Codex" width="100%">
       </a>
       <br><br>
       <strong>GitVerse Connector for Codex</strong> — локальный плагин, который соединяет Codex с GitVerse: репозитории, файлы, коммиты, задачи, merge requests и CI/CD.
